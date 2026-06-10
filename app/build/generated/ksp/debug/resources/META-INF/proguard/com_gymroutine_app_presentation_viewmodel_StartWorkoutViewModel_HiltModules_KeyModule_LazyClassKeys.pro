@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.gymroutine.app.presentation.viewmodel.StartWorkoutViewModel
